@@ -1,0 +1,74 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+header{
+    background-color: #317737;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main{
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li{
+    margin-bottom: 10px;
+}
+
+img{
+    width: 25%;
+    padding-left: 700px;
+}
+
+p{
+    text-align: center;
+    width: 50%;
+    padding-left: 24%;
+}
+
+.ponto-coleta{
+    padding-left: 650px;
+}
+
+.video{
+    padding-left: 650px;
+}
+
+button{
+    margin-left: 45%;
+}
+
+button a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
